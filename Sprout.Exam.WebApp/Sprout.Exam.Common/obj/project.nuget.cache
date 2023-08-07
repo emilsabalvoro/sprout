@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kBAkFaY41a8OqzCMEY+7Dw6covndqmxDQwNrElO+eaNsq58YgUDvXUJgYAJYDEFi5sWNWtGuaHEwjCuC31bLPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\esaba\\Downloads\\Sprout.Exam.WebApp\\Sprout.Exam.Common\\Sprout.Exam.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\esaba\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\esaba\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\esaba\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
